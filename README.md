@@ -10,6 +10,11 @@ A simple command-line interface (CLI) for managing tasks.
 - Mark a task as in-progress or done
 - List tasks by status
 
+## Project Roadmap
+
+For more details about the project and future updates, please visit the [Task Tracker Project Roadmap](https://roadmap.sh/projects/task-tracker).
+
+
 ## Installation
 
 1. Clone the repository:
@@ -18,6 +23,3 @@ A simple command-line interface (CLI) for managing tasks.
 git clone https://github.com/Deepak2002/task_tracker_cli.git
 
 
-## Project Roadmap
-
-For more details about the project and future updates, please visit the [Task Tracker Project Roadmap](https://roadmap.sh/projects/task-tracker).
